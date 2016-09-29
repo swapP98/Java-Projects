@@ -1,0 +1,1000 @@
+COLTRI	ROMANA	01389131	via della vicenda, 454	Ritorto
+ZUIN	ELVIRA	02556010	via della attesa, 890	Castellalto
+SARTORI	GASTONE	02031114	via della arbitraria, 210	Baganzola
+BETTIN	REMIGIO	02425894	via della avanzera, 633	Copogna
+IROLSINI	RAFFAELE	0461339	via della prenota, 229	Castellalto
+PIAZZESE SANSONETTI	RCANGELO	02380705	via della salutata, 205	Castellalto
+FERROTTI	GIANNI	01362499	via della differenza, 320	Collicelle
+COSTANZO	VITTORIO	0131637	via della imboscata, 416	Zagarise
+ZECCHINATO	ALFONSO	01973655	via della provvedeva, 78	Baganzola
+BISCARO	ANTONIO	02145888	via della suggella, 423	Castellalto
+GASPARIN	SILVANO	02090506	via della taccagna, 6	Dinazzano
+PASTORE	NOEMI	01646920	via della formera, 856	Fossona
+CONTE	RISSIERI	01264645	via della incartava, 638	Eliseddu
+TONELLATO	MARIANO	01414824	via della guarda, 938	Fattizze
+CAMPELLO	MICHELE	02403824	via della immondizia, 669	Aregno
+RAMBALDO	ITALO	01385279	via della decisa, 613	Gossolengo
+ZARAMELLA ROTA	ALESSANDRO	02572316	via della fruttiera, 75	Poiano
+CAVINATO	ALCIDE	02250718	via della tettoia, 672	Gaiola
+FORTIN	GIULIANA	02990678	via della arretrata, 241	Collicelle
+SIMONCELLO NICETTO	CLAUDIO	02659789	via della evidenza, 876	Eliseddu
+BIZZOTTO	NARCISO	03035315	via della stanata, 86	Poiano
+MARIGO	FABIO	02817016	via della espressa, 82	Capugnano
+CANZIANI	MANLIA	0639238	via della latrava, 186	Germanedo
+NICCHIO	GIORGIO	01683665	via della testarda, 367	Ritorto
+VITULO	LUCIANO	02291631	via della gelata, 900	Roccatamburo
+ARTIOLI CALDON	ADA	0576903	via della impastera, 154	Copogna
+ANDREATTA	IRMA	01037812	via della svanisca, 497	Castellalto
+UNGARELLI	UGO	0370363	via della genera, 337	Germanedo
+FERRONATO	MARIA LUISA	02479694	via della esecra, 277	Zagarise
+MAZZUCATO	DINO	01893706	via della ululata, 405	Poiano
+COMPAGNIN TONELLO	RINA	02774949	via della tinozza, 700	Poiano
+NICOLETTO	CARLA MARIA	03133181	via della vigilaza, 569	Fattizze
+BERTUCCIOLI	ROBERTO	01837672	via della dannera, 508	Fossona
+RIVA	GIUSEPPE	02830692	via della tremula, 885	Fossona
+ZANCOPE'	PASQUALE	0538540	via della affittera, 852	Poiano
+FRONGILLO	MARIA VITTORIA	0885056	via della delibera, 380	Poiano
+VALENTINI	EGON	01104077	via della recupera, 416	Collicelle
+GAMBA	LUIGI	01951069	via della desinata, 175	Vidracco
+INVERNIZZI COSENTINO	BRUNO	01116915	via della snodata, 542	Roasco
+SCHIAVO	LUIGI	03039766	via della offriva, 614	Fattizze
+PERON	GIANNI	0316758	via della annunziata, 355	Roasco
+CESARO	VITTORIA	0318286	via della smercia, 385	Baganzola
+ARDEMAGHI	FEDERICO	0998745	via della sfrattata, 888	Dinazzano
+SIMIONI	LINO	02310231	via della disarmata, 648	Roasco
+TARTICCHIO	FAUSTO	02014408	via della ciglia, 209	Poiano
+LUBELLO	AGOSTINO	01495432	via della prenotava, 159	Aregno
+TOFFAN CALLEGARI	LEONZIO	02371842	via della predetta, 541	Castellalto
+BARTOLI	ISIDORO	0309810	via della abdica, 392	Gaiola
+BREGANZE	LUCIANO	01635159	via della orbita, 395	Eliseddu
+MUNARI	BRUNA	01945837	via della proroga, 670	Baganzola
+MARTIN	GIANCARLO	0324858	via della spedisca, 684	Dinazzano
+BERTIN	LORENZO	01151902	via della desinenza, 285	Ritorto
+TOMA	MARINO	0317283	via della sibila, 860	Gossolengo
+ZARAMELLA	REMO	0632971	via della sudata, 624	Germanedo
+GOLLIN	ADELE	02045787	via della cresceva, 29	Aregno
+RUBERTO	DONATO	01849850	via della penisola, 297	Zagarise
+VITIELLO	LIDIA	01699194	via della rifuggisca, 83	Dinazzano
+BERNARDI	PIETRO	02219846	via della opprimeva, 258	Copogna
+SANTINELLO	MARIA ANTONIETT	01222962	via della lambita, 820	Eliseddu
+ZANON	EMANUELE	01916633	via della mescolata, 931	Copogna
+CESARO	CLAUDIO	02318846	via della squadra, 74	Eliseddu
+RICCI PETITONI	ARIOSTO	01069812	via della profonda, 339	Collicelle
+CARRARO	BRUNA	0444758	via della debolezza, 834	Fattizze
+ZANDONA'	RENATO	0165674	via della rilassa, 221	Dinazzano
+GALANTE	DOMENICO	01214733	via della autorizza, 375	Poiano
+VANOTTI	PRIMO	0446263	via della degenerera, 166	Collicelle
+MARCOLIN	CARMEN	01599489	via della frantumava, 377	Fattizze
+PIRAN	GIUSEPPE	01110337	via della scottatura, 731	Castellalto
+TRIPODI	LUIGI	03125191	via della crepitera, 57	Zagarise
+CUNIBERTI	VANNA	02912531	via della rammollita, 570	Baganzola
+GIRALUCCI	GISELLA	02675112	via della procaccia, 287	Gaiola
+SAVIANE	ALESSANDRO	02163723	via della industria, 558	Copogna
+FASSINA	PIETRO	02488496	via della vendetta, 725	Collicelle
+RAMBALDI	RITA	0731690	via della tornea, 913	Fossona
+BONATO	MARIO	0960422	via della sfrontata, 934	Alpinolo
+PENGO	GIULIO	03239476	via della girata, 327	Dinazzano
+GARBURO BASSO	VINCENZO	02642764	via della difetta, 514	Gossolengo
+SORGATO	VITTORIA	01467053	via della impudica, 87	Dinazzano
+POLIDORI	MARIA	02643456	via della sgarbata, 219	Fossona
+TOGNANA	ELDA	0350482	via della forata, 198	Copogna
+BORTOLAMI	SANDRO	03026453	via della svestisca, 89	Dinazzano
+PRISCO	PAOLA	02382077	via della diretta, 515	Alpinolo
+ZMARICH	ANNA	0412492	via della miagolera, 572	Castellalto
+GREGGIO	CLAUDIO	01610166	via della bagnata, 861	Capugnano
+ZORDAN	ARGO	02377859	via della sostituita, 649	Collicelle
+VISCONTI	CRISTINA	03239856	via della spilla, 155	Fossona
+SILVESTRI	ULISSE	02255548	via della slenta, 958	Roasco
+CESTARO	ROBERTO	01631893	via della notifica, 536	Roccatamburo
+BERTOLDO	ANNA	01934923	via della trillava, 922	Castellalto
+BERTOCCO	FRANCESCO	03103726	via della intelligenza, 491	Roccatamburo
+CATALANO	TERESINA	02661482	via della risacca, 871	Zagarise
+SANGUIN	LUIGI	0728869	via della esplorava, 976	Gossolengo
+CAPOVILLA	PROSDOCIMO	02236422	via della disegnava, 168	Aregno
+VESCOVI	SERGIO	0337064	via della imballa, 542	Eliseddu
+BARBIERO	DAVIDE	01817994	via della avvicinata, 336	Ritorto
+BARBIERO	BRUNO	01714242	via della istituira, 463	Collicelle
+MARAFON	LUIGI	03120376	via della sfidata, 179	Gaiola
+FERRARI	EZIO	02202987	via della apostata, 858	Castellalto
+NALOTTO	ARDUINO	02413724	via della azzuffera, 910	Gossolengo
+DUBROVICH	PIERPAOLO	0301598	via della seleziona, 814	Copogna
+GRANZIERO	AMPELIO	0525045	via della metteva, 276	Roasco
+FOIS	FAUSTO	02464853	via della traina, 517	Gaiola
+PASETTO	ANTONIO	03236953	via della scheggia, 682	Eliseddu
+PACCAGNELLA	ANGELO	01103968	via della controllera, 373	Gossolengo
+FORZAN	PIERPAOLO	02488631	via della limitera, 314	Dinazzano
+DANTE	SONIA	0586061	via della incetta, 133	Dinazzano
+BOIAGO	LUISA	02375601	via della adocchia, 270	Dinazzano
+SCHIAVO	GIMO	01634618	via della scommessa, 18	Aregno
+COGO	MASSIMO	0349775	via della slentata, 678	Roasco
+PELIZZA	BIANCA MARIA	01729650	via della tramandava, 847	Eliseddu
+VEZZU	ANTONIO	0418430	via della battera, 826	Gossolengo
+BABOLIN	GIUSEPPE	01907160	via della frustra, 157	Baganzola
+BADA	MARCELLO	0746260	via della rallegra, 284	Fattizze
+TONELLO	SOSTENE	0759100	via della ambasciata, 334	Germanedo
+BENETAZZO	GIUSTO	0453543	via della catturera, 31	Roasco
+PAVANELLO	ANTONIO	01234442	via della allegoria, 731	Castellalto
+ONGARATO	FABIO	03216707	via della appestera, 579	Zagarise
+CAMPORESE	DINO	01437631	via della equita, 799	Alpinolo
+BORGATO	PAOLO	01669084	via della doverosa, 98	Ritorto
+DAL CHECCO	NATALE	01429956	via della teocrazia, 209	Germanedo
+CANESSO	ADRIANO	0199480	via della guadagnera, 542	Baganzola
+TOLIN	ARIA	0428605	via della demolita, 978	Fattizze
+RIZZO	ILARIO	02553435	via della sceglieva, 773	Copogna
+TOMBOLATO	ALBINO	0407033	via della abolisca, 594	Ritorto
+GREGIANIN	GIUSEPPE	02632584	via della saluta, 684	Fattizze
+AGOSTINI	ANTONIO	03295122	via della mandata, 140	Baganzola
+CARRARO	GIAMPAOLOOLO	0894821	via della salvia, 329	Alpinolo
+LEVORATO	NERINO	01778945	via della luccicata, 420	Collicelle
+SCALONE	MARIA GEORGINA	01554362	via della fedelta, 45	Alpinolo
+MIONI	ALDO	02100525	via della qualifica, 84	Gossolengo
+BIANCHINI	ANTONIO	0181607	via della montata, 576	Dinazzano
+QUALDI	PAOLO	02058704	via della incognita, 752	Collicelle
+BALDUCCI	GIUSEPPE	0103201	via della osservata, 198	Dinazzano
+MILANI	GIANCARLO	01008398	via della fischia, 140	Gaiola
+MASCELLANI	COLETTE	03202099	via della giudicava, 849	Capugnano
+GOTTARDO	SANTA	0260064	via della accredita, 184	Fossona
+RICCIONI	GIANNINA	0717326	via della pugnala, 247	Eliseddu
+DEGANO	GIANCARLO	0281463	via della foderera, 169	Zagarise
+COCCATO	GIAN PAOLO	02444443	via della rimanenza, 20	Gaiola
+MAURO FACCO	MARIO	01095820	via della pagella, 846	Eliseddu
+GOLFETTO	ANTONIO	01935004	via della svuota, 827	Aregno
+TUSSARDI	LUCIANO MARCELL	02683386	via della fracassera, 564	Capugnano
+ZANUSO	GIUSEPPE	02497025	via della scorgeva, 488	Germanedo
+TENCONI	STEFANIA	02179604	via della cenata, 394	Aregno
+CASIERI SUELLI	LUIGI	01594642	via della smentisca, 104	Aregno
+GUADAGNINI	BRUNA	0677370	via della atterrera, 250	Dinazzano
+BENATO	ZENO	0848173	via della vidima, 185	Collicelle
+ROSSI	ROMANA	0424793	via della condensata, 18	Alpinolo
+NALESSO	LUIGI	03234287	via della rullata, 775	Gossolengo
+FERRARESSO	LORIS	02026661	via della ingelosira, 681	Alpinolo
+LIVIERI	ELVIRA	0686056	via della spiaggia, 575	Aregno
+BALLIN	GUERRINO	01644102	via della teologia, 440	Copogna
+GALLINA	GINA	03292328	via della adontata, 69	Poiano
+FACCO	GASTONE	0994545	via della approntera, 844	Germanedo
+ROSSATO	LEOPOLDO	01298982	via della scabrosa, 651	Eliseddu
+MAZZETTO	RICCARDO	01351387	via della riscatta, 912	Roasco
+RETTORE NALESSO	REMIGIO	0707294	via della disereda, 747	Eliseddu
+MATTIAZZO	CLARA	0744350	via della ugualia, 258	Capugnano
+CAOVILLA	GIUSEPPE	01275100	via della battuta, 941	Aregno
+TOLIN	RAFFAELE	0759546	via della sporcata, 217	Collicelle
+CELIN	SERGIO	0116955	via della tendina, 99	Castellalto
+RIGATO	MARTA	0539241	via della trasporta, 971	Collicelle
+FABRIS	RCANGELO	01703000	via della preferita, 499	Castellalto
+BALLIN	ROSA	0382016	via della sobbalzata, 670	Alpinolo
+BOZZATO	LIVIO	02259921	via della muggita, 949	Roccatamburo
+BALDAN	GIANNI	02142628	via della tostava, 563	Poiano
+DE MARTIN FABBRO	LIVIO	02970814	via della puntura, 915	Gaiola
+BENVEGNU'	SERGIO	03232275	via della veniva, 117	Zagarise
+BOSCARO NICOLETTO	VITTORIO	0774643	via della pilucca, 649	Poiano
+ROSSI	BRUNO	0217858	via della stornata, 146	Gaiola
+ROMANO	AGNESE	01566611	via della sloggia, 308	Aregno
+VETTORATO	ALFONSO	02023243	via della stangata, 935	Aregno
+FERRATO	GIULIANO	01398913	via della sapeva, 85	Fattizze
+BERTIN MOSCON	ALFREDO	01528022	via della scemata, 363	Fattizze
+TURATTO	ANTONIO	02879104	via della sdegnata, 329	Copogna
+MASIERO	GINO	01568378	via della svitata, 32	Vidracco
+SALMASO	ANTONIO	02771461	via della poterla, 673	Castellalto
+ZUPPA	SILVANO	02536548	via della ospita, 388	Vidracco
+COLNATI	IVANO	01996245	via della azienda, 159	Eliseddu
+ZABARELLA	ROBERTO	02780981	via della restia, 849	Poiano
+MOMOLI	NOEMI	02830363	via della slaccia, 361	Fossona
+ZARAMELLA	INNOCENTE	02206507	via della divorziata, 927	Ritorto
+ZATTA	ENZO	02906428	via della piluccava, 512	Alpinolo
+MARCONATO	RISSIERI	02674393	via della recessa, 356	Fossona
+BELLATO	AMANZIO	02013830	via della ambasciata, 627	Eliseddu
+GIURISATO	ORONZO	02001410	via della appoggia, 215	Aregno
+TONIATO	MARIANO	02497987	via della sfondata, 632	Capugnano
+BABOLIN	FIORENZO	0761695	via della leggera, 54	Fattizze
+SCARANTE	RICCARDO	03260316	via della assetata, 482	Roccatamburo
+FASSINA	MICHELE	02684409	via della accetta, 20	Gaiola
+CECCATO	GIANNI	0158994	via della obliata, 294	Ritorto
+BETTIN	ANTONIO	02256108	via della sbroglia, 979	Fossona
+GAMBARATO	ITALO	02408118	via della ricorda, 466	Aregno
+NICOLETTI	SERGIO	01118997	via della cullata, 643	Copogna
+MARINO	BRUNO	0977967	via della ognuna, 806	Roasco
+ZAGO	ALESSANDRO	02071396	via della approdata, 694	Collicelle
+TOSATO	GIULIETTA	0995369	via della negata, 653	Gossolengo
+CELEGATO	LUCIANO	03068105	via della stappava, 912	Aregno
+NAVUZZI	ALCIDE	02943059	via della preventiva, 5	Alpinolo
+SCOLARO	LORENZO	0820462	via della cuocia, 296	Gaiola
+BERTOCCO	DONATELLA	03060345	via della languita, 645	Roasco
+GRABOWSKA	GIULIANA	0795309	via della azzecchera, 191	Capugnano
+FALANGA	VITO	0142568	via della pieghetta, 262	Zagarise
+SABBADIN FIOROTTO	FABRIZIA	01616550	via della spregiata, 411	Poiano
+PINTON	CLAUDIO	02341464	via della fluira, 578	Castellalto
+CAVRARO	LILIANA	01863721	via della curiosa, 370	Castellalto
+QUADRANI	ORESTE	01964729	via della dissipera, 476	Capugnano
+LUCIANI	NARCISO	0473044	via della rivoltella, 199	Copogna
+BURLA	MARIA GRAZIA	01476882	via della albeggera, 118	Eliseddu
+MORETTO	MARIA LUISA	0336797	via della istantanea, 875	Gossolengo
+BARBATO	FABIO	01097922	via della ricamata, 79	Collicelle
+PASQUALI	GIAMPIETRO	02303269	via della paragonata, 348	Capugnano
+BETTENZOLI	ROBERTO	02404897	via della muoveva, 464	Zagarise
+LION	MANLIA	02377532	via della affonda, 661	Ritorto
+RIZZO	GIORGIO	02330463	via della prelibata, 35	Fossona
+XODO	PAOLA	01720492	via della cocaina, 79	Capugnano
+SCALZITTI	GIORGIO	03163847	via della procrea, 342	Vidracco
+CAMPORESE	MARIA	0649462	via della girata, 214	Poiano
+DE ZANETTI	LUCIANO	0150411	via della accoda, 839	Germanedo
+FRISON NERI	LUCIANO	02237818	via della lambita, 146	Vidracco
+FECONDO REVRENNA	PAOLO	01092012	via della esclusa, 14	Zagarise
+BUSINARO	GUIDO	03115764	via della scomparita, 553	Collicelle
+MARCATO	ADA	01146367	via della tumefata, 515	Vidracco
+CATANZARO	G. FLAVIO	0268894	via della cornacchia, 831	Dinazzano
+GAIOLA	LUIGI	02427711	via della rimanenza, 271	Vidracco
+DI BERNARDO	IRMA	01039655	via della pizzicata, 225	Gaiola
+FASULO	BENITO	01606368	via della ingommata, 620	Gossolengo
+NICOLE'	SALVATORE	01126608	via della groviera, 949	Ritorto
+MASTROPAOLO	UGO	03109005	via della rincasata, 435	Fossona
+ROSSI	FREDIANO	0984593	via della dedichera, 313	Capugnano
+FABBRIS	AGNESE	0318798	via della insulta, 243	Castellalto
+PANIZZA	MARIA LUISA	03024589	via della stangata, 846	Alpinolo
+BEDA	FRANCO	01574594	via della impaurisca, 360	Capugnano
+MANTOAN	DIOMIRA	02413777	via della convinta, 426	Vidracco
+MARCELLAN	DINO	01771876	via della ammassera, 4	Collicelle
+SAVOLDATI	MARIO	0275705	via della ratifica, 399	Castellalto
+SCANFERLA	ROSANNA	01962320	via della tenacia, 430	Poiano
+RIELLO	RINA	0890446	via della travisata, 709	Germanedo
+CREMASCO	BENIAMINO	0153964	via della legata, 52	Gossolengo
+CATTONI BORTOLI	OTELLO	02493765	via della rimanenza, 17	Ritorto
+NERI BELLINI	CARLA MARIA	01310765	via della guarda, 564	Dinazzano
+NEGRI	SILVIA	0877979	via della usurpera, 834	Aregno
+GRANZIERO	FRANCESCO	01753165	via della sarcastica, 70	Copogna
+PALLOTTA	ROBERTO	02591620	via della vibrera, 640	Vidracco
+CARRADORE	ADA	02357951	via della tentennata, 207	Capugnano
+TOZZO	ADRIANO	02939498	via della sospenda, 8	Gossolengo
+MARAGNO	GIUSEPPE	02558022	via della accesa, 270	Roasco
+GATTO	GIORGIO	02382661	via della ripassa, 737	Roccatamburo
+DE ZANET	RINA	0742343	via della schema, 338	Fossona
+GIRALDO	PASQUALE	0538362	via della affittata, 967	Fossona
+SOLONI	ADRIANO	01056518	via della presenza, 397	Roasco
+DOMINICI	ROSE ANNE CHIAK	02980119	via della sgrava, 312	Fossona
+DAL PRA	MARIA VITTORIA	01002244	via della adorna, 468	Roasco
+MASIERO	VALERIA	02437875	via della diceva, 979	Eliseddu
+CHITI	FEDORA	01437379	via della realizza, 728	Alpinolo
+PIERETTI	EGON	01597565	via della lacerata, 898	Aregno
+MAGRO	FRANCA	0575799	via della annidata, 638	Baganzola
+VISCHIA	RINO	0701378	via della appella, 843	Fossona
+ROVERATO	LUIGI	0788268	via della ingrossava, 68	Poiano
+MONFERRA'	BRUNO	01147914	via della sirena, 560	Gaiola
+TONELLO	PAOLO	02601494	via della bestemmia, 420	Eliseddu
+CARMINATO	BRUNO	02692053	via della concerneva, 889	Roasco
+GOTTARDO	SILVANO	01898092	via della dettata, 755	Vidracco
+GIACON	VITTORIO	0644717	via della abiura, 893	Gossolengo
+CECCATO	LUIGI	03117253	via della omogenea, 918	Eliseddu
+BARUZZO	LIVIANA	02273226	via della dimagrira, 978	Fattizze
+BERTO GRINZATO	EVARISTO	0454697	via della liquidava, 660	Gossolengo
+MILETTI	GIANNI	01601068	via della esecrata, 25	Copogna
+SOLIGO	ERNESTO	0661844	via della popola, 767	Capugnano
+GUARIENTO	DANILO	02208259	via della adulera, 505	Gossolengo
+GASPARINI	VITTORIA	01046470	via della immigrava, 183	Castellalto
+GUIDOLIN	RADAMES	01630303	via della traccia, 614	Germanedo
+BECCARO	GIULIANO	02673073	via della riflessa, 134	Capugnano
+DISARO'	FEDERICO	01360158	via della dimagrira, 392	Baganzola
+RADO	PIETRO	01161937	via della intimata, 255	Roasco
+BROCCHETTO	PIERINA	0845896	via della camuffera, 850	Roccatamburo
+DONA' PIACENTINI	LINO	03089589	via della conigliera, 715	Germanedo
+PATANE' CACOPARDO	ROBERTO	01092468	via della scavata, 94	Castellalto
+GUGGIA	FERRUCCIO	0788968	via della abolisca, 340	Castellalto
+ZAMPIERI	FAUSTO	01860863	via della dileggera, 453	Fossona
+AGNELLI	LEONE	01549480	via della rapisca, 740	Capugnano
+PRIMAVERA	BIANCA	02068375	via della difenda, 600	Gaiola
+STEFANI	AGOSTINO	02416170	via della prerogativa, 433	Gossolengo
+RUARO	WALTER	0188561	via della provvista, 677	Fattizze
+MENEGHETTI	ANNALISA	0190975	via della importera, 969	Fossona
+PILON MORO	LEONZIO	01051106	via della riunita, 426	Collicelle
+DABERDAKU	GIANCARLO	01431694	via della raminga, 58	Vidracco
+BEDA	FABIO	0242285	via della passera, 305	Copogna
+FRONTINI FUSE'	ISIDORO	0452444	via della abiurata, 692	Baganzola
+DORO	NARCISO	0504128	via della temeraria, 621	Capugnano
+MAGNO	CARLO	02123829	via della retata, 273	Poiano
+CAPATTI	LUCIANO	02535275	via della maneggia, 650	Copogna
+POLSINELLI	TERESA	03072297	via della abbronza, 733	Vidracco
+KASHANPOUR	PIETRO	02190549	via della spilla, 766	Capugnano
+FIORENTINI CAMPORESE	BRUNA	01680805	via della condurla, 666	Alpinolo
+ZAMBON ROSSO	LUIGI	0480908	via della sopita, 560	Germanedo
+CHINELLO	PIERANGELA	01688584	via della trapianta, 445	Aregno
+GABRIELLI	GIANCARLO	0773717	via della infermiera, 972	Vidracco
+RINALDI	OTELLO	02991095	via della spregiata, 356	Roasco
+GIACOMETTI	GIUSEPPINA	02792404	via della affascina, 411	Gossolengo
+ZECCHINATO	LORENZO	02039797	via della inebria, 714	Germanedo
+BARION	ANNALISA	03016823	via della puntella, 883	Alpinolo
+GRAMEGNA	LAURA	01842609	via della costruira, 994	Roasco
+VETTORE	MARINO	01483121	via della replica, 112	Ritorto
+CAPISANI	RODOLFO	02763970	via della addiziona, 954	Roccatamburo
+MIOZZO	EZIO	02183395	via della inseguiva, 671	Fossona
+ROVERATO	REMO	02924101	via della tracciata, 761	Aregno
+LOSCHI	MILENA	0666259	via della barattata, 103	Fattizze
+SEGATO	RENZO	01799673	via della locanda, 115	Fattizze
+BELLINI	ADELE	0436404	via della tamponata, 44	Fattizze
+BARINA	RUGGERO	0623563	via della ripudiata, 372	Collicelle
+GRIGGIO	ENNIO	0555060	via della allegoria, 354	Germanedo
+PILOTO	DONATO	02784921	via della identica, 674	Zagarise
+GALEOTA	BRUNA	02439361	via della balzata, 236	Dinazzano
+ROSSINI	GIORGIO	01429229	via della caghetta, 70	Zagarise
+BETTO	LIDIA	0662805	via della accenna, 367	Vidracco
+SALMASO	FERRUCCIO GIULI	02258268	via della offerta, 642	Copogna
+TESTA	GIUSEPPE	02555318	via della ciurma, 17	Baganzola
+PANOZZO	PIETRO	01529574	via della ammaliera, 631	Fattizze
+BISELLO	TERESA	03002916	via della ratifica, 177	Gossolengo
+BOARETTO	PAOLO	02457608	via della provvedeva, 560	Fattizze
+CAPITANIO	MARIA ANTONIETT	0847868	via della competuta, 684	Zagarise
+MUNERATO	MAURIZIO	02812712	via della coordinava, 361	Vidracco
+MERLIN	FILIPPO	02488656	via della origlia, 347	Baganzola
+MARTINI	EMANUELE	01721576	via della interpretata, 500	Vidracco
+ZARAMELLA	UMBERTO	03080042	via della esplorera, 69	Germanedo
+CARRARO	ALFONSO	03267099	via della gorgheggia, 100	Dinazzano
+AMADORI	CLAUDIO	02933227	via della immigrera, 974	Germanedo
+BOVO	GUERRINA	0888350	via della sognava, 67	Collicelle
+CHIESA	LUCA	01515215	via della sfondata, 533	Castellalto
+FISICHELLA	ARIOSTO	0180831	via della gloria, 216	Alpinolo
+BELLI	DEMIS	01049874	via della torbida, 685	Roasco
+CONTE	CHIARA	03296144	via della prenderla, 395	Gossolengo
+SALVIATO	BRUNA	0516600	via della sfrenata, 968	Roasco
+VETRO' FACCIOLO	ANTIMO	02942346	via della altura, 609	Zagarise
+FAVARON	VIRGINIA	02451880	via della supportata, 638	Roccatamburo
+FAVARON TOMEI	RENATO	01983316	via della radunata, 150	Dinazzano
+NARDO	ELISABETTA	0547653	via della prerogativa, 799	Castellalto
+IAFELICE	MATTEO	01039819	via della frustata, 713	Gossolengo
+DONATO	DOMENICO	02452572	via della affidata, 524	Aregno
+ZILIO LOVISETTO	CARLINA	02088265	via della sospirata, 530	Aregno
+RANZATO	GIOVANNINO	01371469	via della mastichera, 982	Aregno
+STEFANI	PRIMO	02461571	via della buttreatta, 490	Dinazzano
+PREVEDELLO TOGNOLIN	MAURIZIO	02065215	via della concorda, 562	Capugnano
+AGOSTINETTI	ROSALBA	01649027	via della battezzava, 264	Alpinolo
+TOMMASI	CARMEN	02051385	via della settanta, 2	Eliseddu
+RAO	ANNA GRAZIA	01695858	via della incagliera, 434	Poiano
+ZANELLA	ADELINA	01603216	via della cenera, 506	Alpinolo
+BONELLO	GIUSEPPE	01203984	via della offuscava, 612	Poiano
+SACCONI	MASSIMO	0950676	via della sostenta, 877	Alpinolo
+MARCON	CARLO	02130982	via della arrivata, 571	Aregno
+CESARO	LUIGI	0679621	via della sparisca, 638	Aregno
+ZULIAN	DAVID	0591353	via della tumefata, 365	Collicelle
+CIANCIO	WALTER	02132660	via della abdicata, 158	Alpinolo
+GALANTE	VANNA	03255281	via della deruba, 458	Baganzola
+AMORUSO	ROBERT	01408017	via della appella, 774	Aregno
+FACCHIN	ANNALIA	02149596	via della operata, 845	Zagarise
+GARBO	GISELLA	02560595	via della scrosciata, 923	Capugnano
+GIORDANO	GIOVANNI	0656936	via della svolga, 182	Collicelle
+TERRASSAN	LILIANA	02001334	via della stabiliva, 259	Gaiola
+MAZZARDO	ALESSANDRO	01116612	via della darmela, 907	Gossolengo
+ANNOVAZZI	SANTE	01697780	via della mobilia, 784	Gaiola
+BALDAN	ULISSE	02024269	via della bollata, 365	Copogna
+TROMBETTA	PIETRO	03173140	via della assordera, 971	Fattizze
+GIACOMIN	GINO	01631245	via della congedera, 935	Ritorto
+ZAMBORLIN	ALBERTO	01507453	via della rispondeva, 885	Poiano
+CACCIN	RITA	01545541	via della aiutata, 155	Gaiola
+LAZZARATO	UBER	01736645	via della sottratta, 317	Vidracco
+MARTURANO	OTTAVIA	0731376	via della pasticca, 845	Fattizze
+FRANCESCATO	MARIO	03252995	via della stentata, 900	Roasco
+CIAN CELATO	MATILDE	02309054	via della sloggia, 235	Collicelle
+SORANZO	GIACINTO	0204998	via della addenta, 238	Capugnano
+ZANUSSO	GIULIO	01155327	via della industria, 86	Fattizze
+SANARINI	MICHELE	01097426	via della permuta, 33	Copogna
+SABBADIN	GIORGIO	0303153	via della pantera, 818	Eliseddu
+BARISON	VINCENZO	0391591	via della sfondata, 205	Ritorto
+TIRELLI	RICCARDO	01741562	via della visiera, 636	Aregno
+QUAGLIO	RENATO	01304307	via della esorta, 21	Ritorto
+ZANETTI	VITTORIA	0416020	via della mandibola, 649	Vidracco
+BENINATO	MAURIZIO	0209554	via della cancellera, 219	Collicelle
+VEDOVATO	ALBERTO	0628186	via della oscena, 4	Aregno
+PIASENTIN	MARIA	03036940	via della serbata, 133	Fattizze
+RUGGERO	LUIGI	0435980	via della spartisca, 3	Aregno
+FERRO	CARLO	03272461	via della diretta, 815	Gossolengo
+MEZZOCOLLI	ELDA	01653542	via della dammela, 232	Fattizze
+BARBIERATO	UGO	01558367	via della ossequia, 166	Baganzola
+BORTOLI	NATALINA	0651298	via della stupida, 687	Alpinolo
+MASON	SANDRO	02893323	via della diseredera, 57	Vidracco
+GAZZETTA	ROSINA	01555817	via della imprestera, 893	Fossona
+PICCININ	FRANCA	01032171	via della difficolta, 452	Collicelle
+TOSI	PAOLA	0650179	via della tirata, 39	Gossolengo
+MAGAROTTO	BRUNO	01285693	via della franera, 540	Capugnano
+RIGHETTO	PAOLO	02773535	via della ferisca, 91	Baganzola
+SALSI	ANNA	01721275	via della rifiuta, 853	Dinazzano
+SARTORE	SILVIO	02521070	via della distillera, 928	Baganzola
+BARIZZA	GRAZIELLA	03162566	via della rivoltella, 393	Roasco
+FRISO	CLAUDIO	0644764	via della imburrera, 460	Vidracco
+BENETTI	GIORGIO	03189244	via della legittimita, 760	Alpinolo
+FRANCESCHI BARACCO	CLAUDIA	01252257	via della esalta, 755	Vidracco
+RIZZI	ARGO	02937376	via della pigola, 273	Alpinolo
+CESARI BELLINI	ANDREA	02607811	via della timorosa, 166	Collicelle
+BARATTO	MARISA	01099283	via della impieghera, 98	Fattizze
+ARTUSO	CRISTINA	0731869	via della incassera, 453	Ritorto
+MORETTO	ROBERTO	0723399	via della convochera, 371	Alpinolo
+ZORZAN	DELFINO	02600923	via della garanzia, 908	Fattizze
+ROSSATO	ULISSE	03214536	via della dipendenza, 322	Collicelle
+BACCHIN	GIUSEPPE	0948272	via della ultimata, 483	Alpinolo
+RANIERI	ANNA	02333749	via della trattata, 406	Aregno
+RIONDATO	ROBERTO	0262588	via della avvertirla, 913	Baganzola
+FERRARI	ANTONIETTA	0598491	via della svegliata, 420	Fossona
+GALTAROSSA	BRUNO	01189676	via della membrana, 841	Roccatamburo
+PIANTA	ANNA	03282083	via della azzecchera, 632	Germanedo
+BIOLO	PAOLA	0930937	via della ringhiata, 943	Roasco
+PASQUALOTTO	IDA	02814274	via della bestemmia, 908	Eliseddu
+FORNEA	FRANCESCO	03244431	via della implichera, 53	Gossolengo
+GASTALDI	MONICA	01581299	via della annodera, 832	Roccatamburo
+NOSTRAN	ANTONIO	02844238	via della opportuna, 288	Ritorto
+CHECCHINI	TERESINA	02725151	via della sprovvista, 835	Roasco
+AGNOLETTO	ERNESTO	01800725	via della degradera, 174	Ritorto
+SARETTA	MAURO	0944734	via della crociata, 320	Collicelle
+BOVINO	LUIGI	0340802	via della concia, 770	Castellalto
+SALMASO	RENZO	02094631	via della turbina, 783	Alpinolo
+MASSARO	VITTORIO	0447090	via della pittura, 793	Eliseddu
+BALDAN	PROSDOCIMO	01185966	via della vangava, 943	Gossolengo
+LAZZARIN	LUCIA	03058880	via della delizia, 744	Aregno
+FAZZARI	GIOVANNI	01985863	via della insila, 863	Dinazzano
+DE PAOLI	SERGIO	02071597	via della torrefa, 30	Vidracco
+AGOSTA	CARLO	01417914	via della sorvolava, 77	Capugnano
+LAZZARO SERRA	SEVERINO	0736763	via della dirozzera, 94	Castellalto
+ROSSATO	DAVIDE	02762036	via della conosceva, 717	Roccatamburo
+RAMBALDI	FABRIZIO	02462558	via della trucca, 535	Aregno
+MASTELLARI	MARCELLA	03254138	via della cremata, 632	Aregno
+LANCIANO	BRUNO	01612783	via della sventolava, 237	Zagarise
+CODOGNOTTO	GIANNA	0886579	via della drizzava, 519	Dinazzano
+NARDI	LORENZO	03108125	via della domestica, 491	Eliseddu
+BULFONI	LUIGI	01207737	via della salsiccia, 46	Zagarise
+BABETTO	LIA	0425114	via della sfrontata, 120	Poiano
+ADAMI	ANGELO	01722563	via della scozzata, 975	Vidracco
+PEGORARO	EZIO	01596791	via della presieduta, 609	Poiano
+BETTIN	GABRIELLA	01892052	via della spenga, 291	Capugnano
+RODIGHIERO	MARIO	0812268	via della protestata, 223	Copogna
+VISENTIN	ARDUINO	0333499	via della redarguita, 322	Gossolengo
+ZAGGIA	LINO	01216790	via della penzola, 135	Alpinolo
+RIONDATO	RUTILIO	01620466	via della comprata, 869	Roccatamburo
+CAFFA	PIERPAOLO	02512200	via della annoda, 554	Fossona
+BARBIERO	GUIDO	0682539	via della afferrera, 327	Zagarise
+FANTIN	ADRIANO	01356397	via della tassativa, 844	Gossolengo
+PERUZZO	AMPELIO	02405999	via della guarisca, 813	Aregno
+MIOTELLO	ANTONIO	01363403	via della trincia, 655	Aregno
+RAMPONE	LORENZINO	02833075	via della audacia, 290	Gaiola
+ZACCARIA	FAUSTO	0703825	via della istituisca, 44	Fossona
+PINAMONTI	GIOVANNI	02362214	via della agitata, 689	Eliseddu
+LABERIO MINOZZI	SERGIO	02104115	via della accoda, 600	Vidracco
+ZARA	ANTONIO	02948240	via della vistava, 40	Alpinolo
+SGOBBI	CLAUDIO	0447432	via della tornisca, 571	Ritorto
+SCARPARO	CARLETTO	02102216	via della suscita, 591	Eliseddu
+CARRARO	ANGELO	02372710	via della apparenza, 991	Aregno
+FORNASIERO	ANNAMARIA	02891407	via della tarantola, 939	Dinazzano
+XODO	ACHILLE	01075413	via della convinca, 797	Dinazzano
+CULPI	PIERPAOLO	01539346	via della puntura, 148	Collicelle
+FRECENTESE SETTER	ANNA	02307304	via della vacilla, 963	Capugnano
+MENIN	GIUSEPPE	0625891	via della aguzza, 880	Capugnano
+SCHIZZEROTTO	SONIA	02376105	via della battezza, 620	Castellalto
+TREVISAN	SANDRA	03086991	via della tossita, 518	Vidracco
+PACCAGNELLA	MICHELE	01346256	via della preveda, 183	Alpinolo
+RAMPAZZO	LUISA	03014847	via della rivoltella, 288	Gossolengo
+LOLLO	FRANCESCO	0237885	via della pretendeva, 474	Aregno
+ZANDONA'	BRUNO	02058175	via della ricapitola, 390	Copogna
+BALLAN	GIMO	01427863	via della sofferenza, 849	Capugnano
+CALAMARO	ERNESTINA	0221669	via della azzardera, 117	Baganzola
+POLI	LUIGI	02648972	via della nasceva, 321	Germanedo
+NEGRIN	MASSIMO	02666364	via della permuta, 985	Ritorto
+SIFFI	LUIGI	0590363	via della premia, 688	Roasco
+MARINELLO	ALFREDO	0909594	via della riassunta, 854	Capugnano
+BARBATO	BIANCA MARIA	0897424	via della soffra, 656	Roccatamburo
+MONTEMURRO	MICHELE	02024863	via della menzognera, 55	Ritorto
+NARDI	STEFANO	02572036	via della stizzita, 962	Gossolengo
+SOLDAN	ANTONIO	0241800	via della rapsodia, 517	Poiano
+SOTTANI	GIUSEPPE	01571840	via della odorata, 504	Alpinolo
+CONTARINI	STEFANO	02946722	via della domenica, 885	Zagarise
+FINCATO	GIUSEPPE	0811200	via della riorganiza, 461	Fattizze
+DANESE	MARIA	02281802	via della intimidita, 654	Roccatamburo
+SCALABRIN	FRANCESCO	0960361	via della racchetta, 422	Fattizze
+MARETTO	MARCELLO	01145626	via della suddivida, 288	Roccatamburo
+CARISI	FRANCESCO	0846017	via della accompagna, 508	Capugnano
+CARRARO	PAOLO	0792759	via della morbida, 347	Fossona
+COSTOLA	SOSTENE	01051268	via della centotrenta, 498	Dinazzano
+TRABUIO	SILVANA	01234404	via della coniata, 611	Fossona
+SORGATO	ROMANA	01115087	via della vagisca, 956	Capugnano
+BANO	GIUSTO	01637969	via della decidera, 207	Baganzola
+PAGLIARIN	ORFEO	03132980	via della defletta, 352	Gossolengo
+SALMASO	GIUSEPPE	0726725	via della compatibilita, 731	Ritorto
+GASPARIN	ANTONIO	02556351	via della reimporta, 191	Gaiola
+BONORA	ROMEO VICIN	0380672	via della brindata, 376	Gaiola
+GIANTIN	MILENA	01393461	via della trainava, 135	Fossona
+CARRARO	FABIO	02835799	via della sparita, 56	Gaiola
+SANTI SORGATO	SILVANO	02208392	via della augura, 129	Poiano
+FANTINATO	PRIMO	01484148	via della sbiadita, 529	Fattizze
+PICELLO	DINO	02121112	via della informera, 528	Vidracco
+BARISON	ANTONIO	0474675	via della catturera, 526	Fossona
+DESTRO	LEOPOLDO	02808933	via della plenaria, 218	Roasco
+PRETATO	PAOLO	02311716	via della notata, 872	Aregno
+FAVARON	VINCENZO	01304577	via della spartita, 744	Vidracco
+GASPARONI	GIOVANNI	01856645	via della cupidigia, 612	Baganzola
+DONA'	NATALE	03196937	via della colpisca, 435	Baganzola
+GRIGOLETTO	ALBERTINA	02726639	via della allunghera, 139	Ritorto
+SALMASO	MARIA	0631640	via della imbrattera, 528	Collicelle
+MARCENTA	ADRIANO	01695239	via della avvertenza, 316	Alpinolo
+SCHIAVON	MASSIMO	01510308	via della cintura, 292	Copogna
+VOLPIN	DAVIDE	01892117	via della vietata, 600	Gossolengo
+RAMOR LIBERO	ARIA	01090924	via della esclama, 155	Aregno
+RINUNCINI	MARIO	0403630	via della tramezzata, 172	Fossona
+MARABELLO	FRANCESCO	01587491	via della signorina, 829	Collicelle
+MARETTO	ILARIO	01471693	via della trafora, 54	Gossolengo
+CREUSO	GIUSEPPE	02970495	via della strumenta, 433	Gossolengo
+CONTIN	NAZZARENO	0895031	via della squalifica, 243	Alpinolo
+BADON	ALBINO	0166671	via della esentata, 619	Eliseddu
+BENETAZZO	SANTO	02428450	via della permuta, 831	Capugnano
+SAGIORO	BRUNO	02658659	via della imballera, 699	Capugnano
+BORTOLETTO	GIUSEPPE	02182894	via della accostava, 127	Fossona
+GOTTARDO RADO	FABRIZIO	02885973	via della allenava, 766	Germanedo
+GIACOMETTI	DANIELE	01825511	via della ortica, 791	Castellalto
+SARTORE	ANTONIO	02243861	via della bufera, 822	Zagarise
+LUNARDI	ANNA	02580114	via della rincasa, 951	Poiano
+PAGINI	PAOLO	01883965	via della girata, 904	Collicelle
+CERONI	GIAMPAOLOOLO	02426541	via della presumeva, 330	Poiano
+PETRIN	LUISA	03114188	via della orchidea, 205	Fattizze
+CASARIN	BRUNO	02900424	via della accoppia, 372	Gossolengo
+MICHELOTTO	NERINO	01398754	via della prospera, 200	Roasco
+RUZZA	BRUNO	03094545	via della mortifica, 369	Zagarise
+BEDIN	LILLIANA	02758169	via della svogliata, 777	Fattizze
+DE DOMINICIS	MARIA GEORGINA	03257001	via della gioisca, 581	Dinazzano
+ROSSETTO	GIULIO	01768786	via della coabitera, 352	Collicelle
+FISCON	ALBERTO	01992867	via della accorcia, 365	Poiano
+RESOU	ALDO	01163670	via della sballa, 3	Roccatamburo
+CAVALLIN	FEDERICO	03062959	via della vascinera, 298	Gossolengo
+ZAMPIERON	EMMA	02632152	via della orbita, 588	Copogna
+BENVEGNU'	ANTONIO	02984794	via della abboccata, 304	Aregno
+CAVALIERI	MARIA GEORGINA	0819301	via della incaricava, 877	Poiano
+LUCIANI CASTAGNA	FEDERICO	01031756	via della debolezza, 776	Zagarise
+MAGGIOLO	PAOLO	02927179	via della assordera, 669	Roasco
+SARTORI	ROBERTO	02833553	via della dovizia, 704	Roccatamburo
+GENOVESE	MARIO	0313311	via della lavata, 924	Copogna
+PICELLO	GIUSEPPE	01576488	via della luminosita, 798	Vidracco
+MORBIATO	RENZO	0892138	via della interpreta, 885	Fossona
+GAROFOLO	ORESTE	0802511	via della sedata, 614	Aregno
+DE NICOLAO	GIANCARLO	0734090	via della gratuita, 201	Alpinolo
+DI LENNA	ELISABETTA	02010492	via della annebbia, 679	Fossona
+PIGAFETTA	GIUSEPPE	0465539	via della accompagna, 58	Copogna
+FONDELLI SCAPOLO	COLETTE	01854976	via della esclamera, 615	Roasco
+MAROTTO	LUIGI	02469668	via della saziata, 298	Gossolengo
+SOLIMBERGO	ANTONIO	02147148	via della neutra, 265	Aregno
+ROSSI	SANTA	01685332	via della largheggia, 544	Poiano
+SCANTAMBURLO	CHIARA	0654196	via della tapezza, 817	Dinazzano
+BORIOSI	CESARE	02008318	via della aggirata, 331	Collicelle
+ZANON	GIANNINA	01099774	via della confessa, 932	Roasco
+RUGGE	LAURA	0690009	via della domandava, 226	Germanedo
+FAZZUTTI	BRUNA	0763361	via della ognuna, 865	Castellalto
+VASCON	GIANCARLO	01538450	via della ventata, 954	Gaiola
+CHERSOVANI	CECILIA	0481329	via della ricamata, 590	Aregno
+PERACIN	ELISABETTA	02517703	via della colloca, 522	Poiano
+GATTA CARBOGNANI	GIAN PAOLO	01845800	via della biografia, 931	Copogna
+RIZZI	FABIO	02548417	via della collaudera, 347	Capugnano
+FERRARA	RENZO	01205414	via della imbottira, 679	Vidracco
+BACCHINI	MARIO	01906985	via della seguiva, 378	Collicelle
+SANTAGATA	ANGELO	02864985	via della solcata, 721	Fattizze
+ROMAN	RENZO	02626312	via della dirizzera, 223	Collicelle
+DE LOTTO	ANTONIO	0285369	via della tremata, 168	Poiano
+MAGRI	LUIGI	02495870	via della scatenata, 273	Castellalto
+NARDINI	MAURIZIO	02083825	via della qualcosa, 473	Dinazzano
+MASERA	LUCIANO MARCELL	01860669	via della vagisca, 827	Dinazzano
+VECELLI	MARTA	0434175	via della trapela, 560	Roasco
+SCARSI	ANNA	0822512	via della smettetela, 218	Germanedo
+MANFRINATI	GIUSEPPE	0265972	via della reggeva, 952	Fattizze
+ATTARDI	FRANCESCO	02839463	via della adottiva, 935	Dinazzano
+VANIN BOSCO	GIORGIO	0465256	via della uguagliata, 890	Germanedo
+PENNACCHIO	STEFANIA	02325405	via della scaccia, 753	Gaiola
+GIURCO	MARIA	0674420	via della abbrevia, 460	Dinazzano
+SANTON	ANDREA	01051107	via della contenga, 853	Germanedo
+DI CHIO	LUIGI	01691972	via della ripopolava, 720	Eliseddu
+GUICCIARDI	PIERGIORGIO	02142984	via della discolpera, 951	Gossolengo
+LA PESA	ILARIO	02672600	via della svuota, 825	Copogna
+ACCARINO PASQUALE	MILVA	0883959	via della dispersa, 420	Copogna
+ALIBARDI	EDERA	01527529	via della scoprita, 148	Dinazzano
+CALABRESE	BARBARA	01113225	via della dilettava, 416	Capugnano
+LAZZARI CATTANEO	CLELIA	01723887	via della obliqua, 410	Fattizze
+BORDIN	ALESSANDRO	02826213	via della appianera, 5	Fattizze
+GASTALDELLO	RICCARDO	03085168	via della strisciata, 801	Dinazzano
+GON	GENOVEFFA	02574646	via della parodia, 283	Fossona
+CORCIULO	MICHELE	02191394	via della affranta, 107	Vidracco
+GRESPAN	SAVINA	0266307	via della mieteva, 508	Copogna
+PECORONI	GIUSEPPINA	02378276	via della sovvenzioa, 836	Gaiola
+BERTANI	ANNA MARIA	02765302	via della tuffata, 218	Roasco
+MENEGHINI	GUALTIERO	01338277	via della sfoglia, 341	Alpinolo
+GUGLIELMO	ANTONIO	01892219	via della gabbia, 362	Alpinolo
+D'ANDRIA	GIANFRANCO	01119977	via della frontiera, 945	Poiano
+DI BARTOLOMEO	LAVINIO	0423792	via della lettura, 419	Roccatamburo
+BISSACCO	MASSIMILIANO	02128131	via della varicosa, 66	Copogna
+SANTI	ALBERTO	02892466	via della realistica, 529	Zagarise
+NASCI	ELISABETTA	0323636	via della differenza, 346	Roasco
+ZACCARIA	RENATA	03187955	via della tovaglia, 614	Gaiola
+SURINA RADOVAN	UMBERTO	0424091	via della veranda, 770	Collicelle
+NEGRI	ANNA	0955307	via della desinata, 505	Gossolengo
+PATLANO	MARIA VERITA	0302661	via della immagina, 794	Aregno
+MORASSUTTI PENZO	SARA	01996368	via della imbarcata, 64	Fossona
+BOATO	ANNA MARIA	0989335	via della buttata, 470	Dinazzano
+CONTADIN	LUCIANA	02669042	via della controlla, 313	Fossona
+TROVO'	MARIA VALERIA	0670197	via della propala, 571	Collicelle
+FLORES D'ARCAIS	MASSIMO	03087353	via della silurata, 559	Vidracco
+PORRO	SERGIO	01487380	via della sozzura, 715	Baganzola
+LORENZATO	LEONIO	01121710	via della offerta, 513	Poiano
+CARRARO	FEREIDOON	0339434	via della sguattera, 492	Germanedo
+HAFSA	CARLO	02399069	via della conciava, 422	Dinazzano
+VANZATO	MARIO	02081284	via della largheggia, 586	Baganzola
+BALDAN GIACON	CLAUDIO	01501992	via della continuera, 191	Gaiola
+FURLAN BRESSAN	PRIMO	0723898	via della succinta, 903	Eliseddu
+PREVITERA	MARCO	01569716	via della reputata, 507	Dinazzano
+LAZZARIN	GIUSEPPE	02234445	via della leggerezza, 694	Fossona
+ROCCO	VALERIO	01897710	via della grattugia, 967	Poiano
+BARZON	PAOLO	02536660	via della squarciata, 681	Collicelle
+PETRANZAN	OTELLO	01537738	via della debolezza, 200	Collicelle
+CERCHIARO	ANGELO	0710103	via della esclamera, 182	Capugnano
+SIMONATO	ANTONIO	02897524	via della augura, 992	Collicelle
+BETTELLA	CLAUDIO	02591128	via della riposata, 235	Vidracco
+ZOPPELLETTO	LUCIANO	02541415	via della arginata, 415	Zagarise
+TAGLIAPIETRA	CLAUDIO	01971637	via della pellicola, 724	Copogna
+GUZZONATO	STEFANO	01189638	via della porcheria, 947	Roccatamburo
+SELMIN	ROBERTA	0200452	via della imbianca, 504	Dinazzano
+MAZZONE	ROBERTO	0918970	via della gremita, 601	Fattizze
+CANNAS	ELEONORA	0182268	via della ripagata, 525	Germanedo
+MURARO	UMBERTO	02362295	via della tapezza, 46	Eliseddu
+PICCIAIOLA	CARLO	0378024	via della accentuata, 959	Fattizze
+PRAVATO	FRANCESCO	01908568	via della digrignata, 737	Capugnano
+MARI MODONI	GIAMPAOLO	01605157	via della disgustata, 322	Fossona
+SALVATORE	GIANNI	01703678	via della finanza, 33	Alpinolo
+SALVA'	MAURIZIO	01037174	via della ripara, 602	Collicelle
+ZARANTONELLO	ALESSANDRO	0448711	via della unanimita, 332	Baganzola
+RAMPAZZO SIMONATO	IVAN	02203706	via della trasogna, 383	Fossona
+GAMBALI	FLORA	0202012	via della appanna, 184	Dinazzano
+PANIZZOLO	OTTAVIA	02591075	via della lucidera, 968	Dinazzano
+BERNARDI	LUIGINO	0377645	via della segnariga, 427	Roasco
+LIDDEO	ELEONORA	0441256	via della evacuata, 506	Eliseddu
+CARRARO	FRANCESCO	01345861	via della inetta, 306	Alpinolo
+BUSIN	ROBERTO	01552939	via della ostacola, 120	Castellalto
+RAGANA	OTTORINA	01633455	via della svagava, 596	Eliseddu
+TORRISI	ORLANDO	0480991	via della alterata, 23	Germanedo
+TIAZZOLDI	GUIDO	01523332	via della rapida, 736	Roasco
+LUNARDI	GIULIO	0136219	via della aggiunta, 654	Alpinolo
+BOLOGNIN	GIUSEPPE FRANCE	0254667	via della rognosa, 942	Baganzola
+GIANESINI	ELIA	02586134	via della stanziava, 795	Alpinolo
+BAGGIO	ALESSIA	02822770	via della adombrata, 344	Collicelle
+VETTORAZZO	MARIA	03054110	via della degradera, 698	Fattizze
+VANIN	ILARIA	01179347	via della nessuna, 100	Germanedo
+SCARPARO	BRUNO	03120150	via della irritata, 214	Roccatamburo
+FERRIN	MARCO	0232462	via della abbraccia, 531	Capugnano
+SANDONA'	FRANCO	01519946	via della finanzia, 911	Gossolengo
+SETTIN	RENATO	02245902	via della risana, 237	Poiano
+PIONTI GRINZATO	ALDO	0946044	via della pignola, 204	Gossolengo
+CARATA VRADINI	EDDA	0840537	via della tradita, 228	Eliseddu
+FANTON	RENATO	02046902	via della qualcosa, 481	Castellalto
+BEIS	ALESSIO	0592681	via della ribaltata, 49	Collicelle
+BARGELLINI	ENZA	0627460	via della visiva, 222	Roccatamburo
+MONTECCHIO	ERNESTO	01435461	via della defraudera, 900	Copogna
+CONCOLATO	GIUSEPPE	0848494	via della gorgheggia, 130	Germanedo
+MOSELE	ALBA LINA	02257871	via della spasmodica, 765	Castellalto
+VANIA	ZITA	02827385	via della produttoria, 253	Castellalto
+TEMPORIN	PIERLUIGI	01305343	via della gestita, 539	Collicelle
+MIETTO	LINA	03037678	via della tradiva, 110	Fossona
+TUROLLA	MARIA GIULIANA	02979603	via della rovistata, 147	Fossona
+DAL CORSO	GIOVANNI	01109145	via della colleghera, 815	Zagarise
+MARANGON	FERDINANDO	02238634	via della sguattera, 672	Eliseddu
+SALANDIN	CARLO	0227950	via della riuscisca, 204	Gaiola
+SOLDA'	STEFANO	0996444	via della scrosciata, 484	Germanedo
+LUCCHIN	ARTURO	01136109	via della regola, 958	Germanedo
+GNUDI	ADELE	02123523	via della adombrata, 356	Poiano
+BABOLIN	MARINA	02532550	via della accoppia, 728	Roasco
+PITTON	VINCENZO	0246506	via della opinata, 599	Fossona
+LODOLA RAMPAZZO	ZITA	01471583	via della studia, 261	Gossolengo
+MANNI	JOLE	01348340	via della ribassata, 179	Baganzola
+RAZMAN DE POL GALLO	FILOMENA	0164655	via della ghiacciata, 526	Fossona
+SCHIAVON	CORINNA	0768140	via della pigola, 846	Vidracco
+ZAGGIA	ELVIRA	03178816	via della statista, 837	Roasco
+MIAZZI	GIOVANNI	02801356	via della consacra, 260	Poiano
+FRANCO	ANTONIO	01837683	via della censura, 977	Germanedo
+MENEGHINI	CLAUDIO	01899636	via della maiolica, 111	Fattizze
+CALLEGARI	GRAZIA	0220998	via della penzola, 328	Zagarise
+RIDELLA	PAOLO	02270884	via della eliminata, 249	Zagarise
+MENEGOLLI	GIAMPAOLO	02764895	via della terraquea, 989	Roccatamburo
+ZEN	MARIO	02279128	via della stanziata, 809	Fattizze
+FRISO	LARA	01861558	via della trapana, 907	Poiano
+PROSPERI	ANGELO	01244977	via della proibitiva, 330	Roccatamburo
+FAZI	FILIBERTO	0659490	via della carezzera, 1	Roccatamburo
+PAVANELLO	BRUNO	03045088	via della incalzera, 887	Zagarise
+NICOLINI	MILENA	0663568	via della arrangia, 282	Germanedo
+DI CRISTINA	EMER	0512126	via della scomparita, 214	Poiano
+RIPA	GIACOMO	02134809	via della inondata, 984	Capugnano
+MARTINELLI GENCO	GIUSEPPE	01435529	via della settanta, 826	Collicelle
+GIACINTI	ROBERTO	01290536	via della allettera, 687	Copogna
+CALLEGARI	PIETRO	0160666	via della lavanderia, 146	Capugnano
+COLUSSI	MAURO	0304135	via della elimina, 441	Eliseddu
+DANUTI	ELVI	0389005	via della risona, 634	Fattizze
+SEGATO	MARINO	01305517	via della trapassa, 892	Castellalto
+GRIGOLETTI VAROTTO	LUCIO	02778772	via della latrera, 903	Copogna
+MORASSUT	PIERLUIGI	0380887	via della infermiera, 405	Alpinolo
+GUIDOLIN	CARLO	02143812	via della svaluta, 852	Fattizze
+MASIERO	LAURETTA	0772001	via della strofa, 194	Aregno
+SCHIAVO	PIERGIORGIO	0654657	via della notizia, 790	Dinazzano
+MARITAN	GIOVANNI	0478030	via della incapacita, 441	Vidracco
+PUNCHINA GIACON	SILVIA	01838084	via della comparsa, 555	Zagarise
+MOSELE	GIOVANNI	02253322	via della acquista, 425	Castellalto
+ZANARDO	MAURIZIO	01376878	via della indecenza, 646	Roasco
+SALVADEGO BUSSOLIN	ADONE	01209066	via della tramonta, 645	Gossolengo
+MILANI	MARIA PAOLA	0310197	via della fuggita, 344	Poiano
+PETTENAZZO	GIULIANO	01212553	via della premia, 945	Baganzola
+SILVESTRE	LUISA	02233331	via della vessata, 840	Castellalto
+DE MICHIELI	RENATO	02487240	via della scozza, 643	Castellalto
+DEGLI AGOSTINI CARLI	FRANCESCO	0898268	via della deteminata, 356	Poiano
+SUMAN	RITA	02012909	via della seleziona, 649	Zagarise
+BISON	FERDINANDO	03012553	via della austera, 273	Vidracco
+FERRO	TERESINA	0325735	via della piluccata, 595	Roasco
+QUARESIMA	LUCIANA	03040754	via della scriva, 256	Germanedo
+BUSATTO	LUIGI	01917944	via della spazzata, 959	Vidracco
+LINCETTO	LFIERI	02802821	via della ridotta, 377	Vidracco
+SEGATO CONTE	DANTE	02837978	via della caghetta, 189	Castellalto
+SARTORELLO	GABRIELE	02275752	via della sdoganata, 242	Capugnano
+VECCHIO	AUGUSTO	0690854	via della andata, 831	Eliseddu
+COLLI	FERNANDO	03192354	via della pellicola, 114	Fossona
+SCANFERLA	PIERINA	01437233	via della esagerata, 648	Germanedo
+CROTTI	LUCIANO	03041702	via della consentiva, 42	Gossolengo
+TORRESINI	STEFANO	0594775	via della soffrisca, 751	Copogna
+BROGGIO	GUIDO	01869409	via della scandaliza, 980	Eliseddu
+MENOLI	LINA	02836707	via della superflua, 722	Roasco
+CARRARO	ITALO	02677082	via della alcuna, 917	Zagarise
+STEFANI BUNARTE	ANTONIO	03193083	via della immediata, 738	Roasco
+MEZZALIRA	PIERA	02222387	via della concernuta, 77	Gossolengo
+PARPAIOLA	NAZZARENO	0249747	via della screanzata, 697	Poiano
+MAZZARO	PATRIZIO	01019711	via della esecutiva, 659	Fattizze
+DESTRO	FERRUCCIO	02949096	via della comunicata, 341	Alpinolo
+PILLI	GIULIANO	0539327	via della tramonta, 731	Alpinolo
+ZANVETTOR	BIANCA	02189541	via della sgorbia, 385	Alpinolo
+PEGORARO	GARZO	0408151	via della abbrunata, 589	Gaiola
+BORTOLETTO	ANTONIO	03225972	via della rasentata, 640	Fattizze
+USAI	DANIELE	02008710	via della adesiva, 261	Aregno
+TESCARO	IRENE	0469417	via della terracotta, 134	Vidracco
+BARINA	MARINO	02480502	via della contegnosa, 561	Zagarise
+CHILLON	FRANCO	0287209	via della bravura, 246	Castellalto
+PEGORARO	STEFANO	01518957	via della passata, 209	Gossolengo
+OTTAVIANI	ARNALDO	02202744	via della badata, 821	Baganzola
+TORRESIN ZELLA	WANDA	01775305	via della varieta, 960	Roccatamburo
+RIGON BEDIN	MARISA	02495846	via della cooperera, 302	Baganzola
+TEODORI	ROBERTO	02858031	via della pompata, 726	Copogna
+BEDIN	ELVIRA	01002731	via della guarda, 853	Eliseddu
+VERDIGLIONE	MARIA	01730843	via della mieteva, 703	Ritorto
+ZOCCARATO	IMELDA	01515464	via della flessuosa, 482	Poiano
+BOTTARO	LORIS	02714232	via della deteminata, 494	Capugnano
+RIGO	LEONE	02582628	via della sagezza, 170	Fossona
+LOLLO	LUCIANA	01885038	via della spietata, 236	Capugnano
+PIQUET	DORIANO	01108982	via della ammalata, 993	Fattizze
+PASQUETTO	ZENO	0276106	via della sfarzosa, 726	Roasco
+SANTINON	STELLA	02355626	via della cavera, 245	Castellalto
+SALVATO	PAOLO	01076554	via della detestera, 540	Fossona
+MARCONATI	DONATO	01139963	via della trovava, 569	Capugnano
+MARCATO	LUCIANO	0431734	via della esperta, 166	Ritorto
+FASOLO	ORFEO	01435258	via della spartisca, 78	Fossona
+STORTOLANI	RENZO	0643495	via della totalizza, 123	Gaiola
+FRANZINA	GINA	0771406	via della rapita, 480	Castellalto
+SALMASO	PAOLO	0969542	via della biblioteca, 90	Eliseddu
+LUCCHIN	ALBANO	0234693	via della spallata, 203	Fattizze
+DALAN	DOMENICO	01224105	via della blocchera, 28	Fossona
+GALEGA	ANNA MARIA	01666956	via della riposizionera, 523	Dinazzano
+CANTON	PIERPAOLO	02177695	via della mescolera, 305	Fossona
+CHILLON	LORENZO	01667046	via della eclissa, 685	Alpinolo
+SALVO'	ANTONIO	02756770	via della bevanda, 826	Castellalto
+BORILE	GIANFRANCO	01589794	via della slittava, 30	Zagarise
+VAROTTO	FRANCESCO	0444398	via della riapparsa, 150	Collicelle
+FABIAN	LUIGI	01545869	via della innalzata, 120	Roccatamburo
+TASSINATO	ANTONIO	01279516	via della deformava, 621	Dinazzano
+MILAN	LUIGI	0802944	via della rimoderna, 862	Castellalto
+CARPANESE	PINO	01058097	via della troculenza, 492	Capugnano
+MASIERO	RENZO	01384257	via della incolpera, 635	Eliseddu
+LATINO	MARIA	01731109	via della sistolica, 49	Copogna
+MORO	MASSIMILIANO	02069971	via della abolira, 412	Fossona
+BIA	LEANDRO	02206880	via della sgrassa, 734	Copogna
+CASOTTO	GINO	01995643	via della musica, 888	Capugnano
+SCHIAVON	TARCISIO	01949457	via della clausola, 275	Capugnano
+FAVARON	LORENZO	01053979	via della propala, 604	Fattizze
+MORO	CARLO	01379273	via della obbligata, 807	Aregno
+BOCCA	GIANNI	0293103	via della trebbia, 70	Fossona
+CRIVELLARO	CLAUDIO	02272906	via della sfrega, 997	Capugnano
+SADOCCO	ANTONIETTA	02318214	via della consacra, 893	Germanedo
+RAMPAZZO	ADUA	01763345	via della penetra, 173	Castellalto
+CARPANESE	ULDERICO	02090153	via della arrabbiata, 901	Zagarise
+CATTOZZO	FRANCESCO	02339846	via della aggiornera, 444	Copogna
+BETTIO	ELIO	0126162	via della riapparsa, 266	Baganzola
+MARTIN	ARRIGO	02647604	via della fruttava, 828	Zagarise
+MORELLO	LORIS	02899949	via della demerita, 633	Capugnano
+CECCHINATO	MAURO	01088306	via della leggenda, 376	Dinazzano
+RIZZO	CARLINO	0841049	via della sfogliata, 240	Germanedo
+MARCATO	LUCA	02620100	via della indennita, 298	Germanedo
+MURARO	GRAZIELLA	0735688	via della sessanta, 49	Roasco
+GHELLER	GIUSEPPE	03156955	via della migliorava, 85	Castellalto
+GHELLER	ANTONIO	0525943	via della mirera, 865	Gossolengo
+GRIGIO	ALESSIO	02769323	via della decapitera, 638	Dinazzano
+BOTTAZZOLI	ALESSANDRO	02510707	via della ammalata, 466	Fattizze
+CISCATO	SONIA	02883704	via della rinforza, 391	Poiano
+FALABELLA	BRUNO	0944451	via della rinfranta, 722	Castellalto
+DISCARDI	GRAZIELLA	0283304	via della giurista, 437	Castellalto
+ZORDAN	ANTONIO	01638385	via della portata, 727	Copogna
+LEONARDI	VALTER	0307103	via della pregustava, 650	Fossona
+FRIZZARIN	CARLA	03159623	via della divampera, 920	Poiano
+SOLIDA	VALERIO	01250513	via della imbratta, 815	Eliseddu
+PILOTTO	ANTONELLA	0431942	via della scarcera, 211	Alpinolo
+GIANESELLO	ANTONIO	01165344	via della smaglia, 747	Poiano
+GUGLIELMI	MASSIMO	01134847	via della elevata, 105	Fossona
+CAMPORESE	ROCCO	01459262	via della svelta, 422	Alpinolo
+BECCARI	ANTONIA	0504535	via della affabilita, 826	Zagarise
+MILAN	SEVERINO	0896559	via della travasata, 97	Dinazzano
+SICHEL	LAURA	0933353	via della scandita, 448	Copogna
+BABETTO GARBO	MASSIMO	02397705	via della pendeva, 440	Zagarise
+RIGATO	ANDREA	02769766	via della accorata, 12	Eliseddu
+DESTRO	STEFANIA	0639221	via della rosolata, 649	Collicelle
+MAGGIOLO	FRANCO	01518413	via della propensa, 657	Copogna
+CIRIACO PASCOLA	GAETANO	01654133	via della vestira, 582	Copogna
+MANNA	LUIGI	01040675	via della decolorera, 740	Gossolengo
+LUISE	GIOVANNI	0831643	via della sbarcava, 880	Copogna
+FARINAZZO	CATIA	01153435	via della vagisca, 967	Collicelle
+GALTAROSSA	SANTE	02516982	via della traslata, 92	Roasco
+FRANCO	VITTORIO	01230443	via della devastera, 512	Baganzola
+BOSCOLO	WALTER	01211979	via della scampa, 801	Poiano
+TOSON	MARIANO	0601474	via della usurpava, 146	Fossona
+BABOLIN	FRANCESCO	01174324	via della brindata, 747	Gossolengo
+ZAGO	LUCIO	02152693	via della rullata, 361	Ritorto
+FILIPPI	DIMITRI	0818325	via della mescolera, 954	Eliseddu
+CANEVAROLO SILVESTRI	PASQUA	03125920	via della sbrigata, 493	Alpinolo
+GARDIN	CLAUDIO	02714575	via della fiaccata, 853	Dinazzano
+ZANINELLO	PIETRO	01920387	via della cozzata, 851	Vidracco
+VERONESE	MARIO	01189314	via della scovata, 410	Baganzola
+SCHIAVON	ARMANDO	01690206	via della grassa, 839	Poiano
+ARDIZZON	ENZO	01925891	via della estrema, 248	Poiano
+CANOVA	GIOVANNI	01146828	via della modera, 80	Roasco
+ZORZI CIPRIAN	MARIO	03163124	via della frustata, 774	Roccatamburo
+ALVERDI	FRANCA	01357407	via della badata, 545	Zagarise
+ROSSO	MARIA	02496668	via della tostava, 302	Roccatamburo
+FANTON	GIANFRANCO	02945561	via della correttezza, 674	Germanedo
+ZORZI	ANTONELLA	0478071	via della bancarotta, 180	Fattizze
+CESAROTTO	GABRIELLA	03290936	via della congelata, 504	Poiano
+BALLAN GALLUZZI	CLAUDIO	01015242	via della adagiava, 914	Collicelle
+LEVI MINZI	MARIA LUCIA	0129569	via della bravura, 792	Ritorto
+BELLUCO SCHIAVON	CARMELA	02172211	via della trapianta, 295	Poiano
+FABRIS	GABRIELLA	01553949	via della sradica, 141	Copogna
+ZANON	AURORA	02969791	via della mozzera, 518	Vidracco
+CANELLA	TERESA ROMILDA	0812378	via della adottera, 123	Dinazzano
+ROSSETTO	MARIO	0584143	via della sbenda, 316	Copogna
+MARTINELLO	GUIDO	02309740	via della imballa, 409	Roasco
+ZANUTTO	SILVANO	0348534	via della delusa, 76	Eliseddu
+VEGO SCOCCO	LUCIANO	02807054	via della sapeva, 888	Roccatamburo
+SACCHETTO	LUCIANO	0151905	via della guarda, 972	Roccatamburo
+BORTOLETTI	TERESA	01421646	via della arrota, 797	Fattizze
+GIACOMETTI	ANTONIO	0439829	via della decretera, 83	Gaiola
+MENEGHETTI	BRUNA	03227003	via della vernicia, 840	Fossona
+RIGHETTO	FRANCA	01413876	via della subentrava, 523	Copogna
+BARINA	PIERINA	0453043	via della frulla, 321	Zagarise
+CANTON	LUCIANO	0232075	via della lessata, 564	Gossolengo
+ZUGARELLI	UGO	01685572	via della scottata, 262	Eliseddu
+SORGATO	ANTONIETTA	01008376	via della deroga, 761	Collicelle
+GIORA	MARIELLA	0266949	via della ordinava, 531	Copogna
+DAMIANI	ANTONIO	02413212	via della taglia, 76	Gossolengo
+BORTOLAMI	MAFALDA	0295848	via della straniata, 968	Fattizze
+MUSMECI	FERDINANDO	01273564	via della mummia, 7	Eliseddu
+FRANZOLIN	ACHILLE	01026921	via della accettata, 507	Collicelle
+FORNASIERO	ISIDE	02571921	via della revoca, 708	Ritorto
+PEGORARO	WALTER	0471260	via della eguagliera, 305	Gossolengo
+CONTADO	GIULIANO	0647743	via della riposizionera, 116	Aregno
+FURLAN	UMBERTO	02196159	via della educata, 861	Ritorto
+FRANCO	SANTE	01996223	via della sciupata, 78	Copogna
+MOSETTI	LUCIANO	02925077	via della vaniglia, 149	Vidracco
+GIUDICA SCARSO	AUGUSTO	03269353	via della sventurata, 472	Eliseddu
+SCHEMMARI	ANTONIA	02537801	via della spaccata, 736	Copogna
+LUNARDON	BRUNO	01274680	via della elettrica, 337	Dinazzano
+MORO	GIUSEPPE	01270608	via della tenacia, 910	Copogna
+TOSON	GIUSEPPE	02976476	via della disinvolta, 992	Castellalto
+FURLAN	DOMENICO	0115427	via della atomica, 805	Copogna
+CRIVELLARI	ANTONIO	0295295	via della marinera, 167	Fattizze
+CALORE	LUCIANO	01220903	via della azzeccata, 527	Fattizze
+NICOLETTI	LINA	02507536	via della turata, 124	Vidracco
+ZAMPIRON SAGGION	FRANCO	01891958	via della risana, 275	Baganzola
+GALEAZZO	ERNESTO ARTURO	01446209	via della informa, 782	Ritorto
+PELLIZZARO MOLENA	ROMILDA	01389554	via della riavuta, 470	Vidracco
+COSTANZO	CINZIA	0700696	via della capacita, 845	Dinazzano
+DONOLATO	MASSIMO	01330955	via della avvisa, 881	Castellalto
+MAGRO	ASSUNTA	03216208	via della finita, 926	Gossolengo
+LISSANDRON	ROBERTO	02889691	via della premia, 743	Ritorto
+CAVALLIN	ALBERTO	02094359	via della alimenta, 667	Roccatamburo
+BOLZONELLA	GIOCONDO	0795519	via della abrogata, 891	Capugnano
+STRUKUL	SETTIMO	0193116	via della manica, 873	Castellalto
+BARICHELLO	ALDO	02934586	via della adorata, 878	Roasco
+CIMINI NUMITORE	EUGENIO LUIGI	0926771	via della terracotta, 630	Alpinolo
+CERVESATO	EUFEMIA	01949093	via della abbagliata, 104	Dinazzano
+CROPPI	NORMA	02265597	via della angoscia, 432	Capugnano
+FAGIUOLI	PIETRO	01237553	via della cenera, 940	Vidracco
+ASCENZO	MARIA LUISA	0336116	via della adagiata, 307	Capugnano
+CHIAVEGATO	VALENTINA	02554759	via della scrivania, 852	Vidracco
+BAGGIO	FERDINANDO	02621457	via della lavora, 941	Eliseddu
+EGENI	SERGIO	03211843	via della bombardera, 526	Roasco
+GIACON	ALFREDO	02760821	via della ritirata, 802	Dinazzano
+FERRI FORATTI	GIORGIO	02875941	via della tramuta, 994	Eliseddu
+ALLEGRETTA	GIANCARLO	0149442	via della teocrazia, 268	Germanedo
+CAMOZZA	ATTILIO	0770752	via della cicuta, 761	Ritorto
+CROCCOLO	ELDA	0339052	via della deperiva, 749	Vidracco
+BORTOLAMI	DONATA	02475904	via della ereditera, 925	Gaiola
+BALDAN	PINA	02637540	via della spiritata, 814	Copogna
+BORTOLAMI	ELISABETTA	01127514	via della nebbia, 306	Copogna
+MURSIA	ROBERTO	0509117	via della amputata, 315	Capugnano
+VISENTIN	PAOLO	0217952	via della puntata, 568	Poiano
+DE ROSA	FERDINANDO	01174277	via della purifica, 512	Eliseddu
+BETTINAZZI	DANIELA	01195603	via della impresa, 349	Collicelle
+RAMPAZZO	ARMANDO	0409362	via della posizionera, 198	Gossolengo
+DELLA COLETTA	TULLIO	0665331	via della ragionava, 379	Gossolengo
+BIASIOLO	GIANCARLO	02147622	via della relega, 824	Fattizze
+BELTRAME	GIOVANNI	0388036	via della chiarezza, 611	Fattizze
+RONCA	ROBERTO	02878077	via della colpisca, 625	Baganzola
+VIDOTTO VILLALTA	GIOVANNA	01281226	via della chiusa, 343	Alpinolo
+LUISE	ADOLFO	01646083	via della guerra, 745	Vidracco
+SARTORI	ALDO	0618369	via della brontolera, 345	Eliseddu
+CELLI	ALBERTO	0453491	via della ghiacciava, 358	Baganzola
+COSTA	MARIA CRISTINA	02029165	via della assassina, 980	Copogna
+BORTOLAMI	LUIGI	01457910	via della esecrata, 800	Dinazzano
+CELIO	DONATELLA	03099699	via della ritirata, 334	Ritorto
+SAVIO	INES	0973772	via della raggrumata, 687	Fattizze
+FERRARA RUBIN	GIUSEPPE	02172014	via della elastica, 338	Germanedo
+GALEAZZO	MARIO	02671293	via della tumefata, 46	Baganzola
+PEZZON	GIOVANNI	01945264	via della contigua, 893	Fossona
+MUCELLI	DINO	01977332	via della mieteva, 436	Baganzola
+NARDO	CARLO	0273582	via della riposiziona, 997	Capugnano
+GIACOMINI	MELANIA	02474661	via della stingeva, 72	Capugnano
+FRISON	PAOLO	0168341	via della azzuffava, 867	Ritorto
+RAVAROTTO CELEGHIN	ARMANDO	0302422	via della obliata, 957	Copogna
+RAMPAZZO	IVONE	0596717	via della commentera, 69	Roasco
+MINGARDO	FRANCESCO	0556188	via della provenisca, 997	Roccatamburo
+BERTAGGIA	BRUNO	03282450	via della suggerita, 635	Baganzola
+BODIN	ALFREDO	01687432	via della donata, 135	Alpinolo
+REGAZZON	PASQUA	0304908	via della sfogliava, 196	Collicelle
+ZAGGIA	LEONARDO	02304184	via della sfoglia, 471	Gaiola
+DANIELE	NERIO	0100550	via della vogata, 104	Roasco
+SARTORI	MARIA	01570495	via della levigata, 388	Dinazzano
+RAGAZZO	ELIA	02261585	via della miagolera, 554	Fattizze
+MASIERO	FERRUCCIO	02806701	via della additata, 677	Gossolengo
+FAYENZ	GIUSEPPE	01136241	via della velata, 714	Baganzola
+NICOLAZZI	GIORGIO	01089884	via della riceveva, 662	Gaiola
+PIRAN	PIETRO	02229519	via della esportera, 846	Germanedo
+MOLINARI	ANTONIO	02852434	via della addetta, 327	Fattizze
+TURATO	GIACINTO	0202664	via della implorera, 435	Gaiola
+COLETTO	GIANNINO	0683812	via della posiziona, 436	Fossona
+LUCIETTO	SEVERINO	01672521	via della graziera, 310	Alpinolo
+SCANTAMBURLO	GEMMA	02529415	via della mirera, 665	Eliseddu
+MICOZZI	LUCIANO	03212901	via della smilza, 771	Alpinolo
+BERLOSO	FEDERICA	03290934	via della tinteggia, 721	Fossona
+SIMONAGGIO	VITTORIO	01353642	via della sceglieva, 714	Ritorto
+MAZZETTO	RINALDO	01226019	via della avviata, 469	Vidracco
+ALESSI	MAURIZIO	02580673	via della spedita, 755	Gossolengo
+ZANOVELLO	ARMANDO	01549243	via della mandata, 57	Eliseddu
+BRAZZO	ANGELO	01336175	via della palesata, 357	Aregno
+DE MARCHI BERTO	GINO	0830561	via della rotolava, 43	Collicelle
+BOVO	WALTER	02818843	via della bellicosa, 951	Fattizze
+TON	MASSIMO	0196975	via della umilta, 517	Eliseddu
+BRAGATO	RINO	0983352	via della tossita, 68	Poiano
+BENETTON	MICHELE	02531297	via della accentra, 227	Eliseddu
+FRISON	MARIA LUISA	01340915	via della guarda, 456	Gossolengo
+ROMBALDI MEGGIORIN	UMBERTO	03272507	via della diabolica, 705	Fossona
+BADON	ALESSANDRO	02158547	via della bibbia, 210	Gossolengo
+VANIN	GIACOMO	0416322	via della tassata, 391	Copogna
+SANTANGELO	ARMANDO	01260031	via della disastrosa, 895	Poiano
+GARZIERA	ANGELO	01314154	via della carita, 756	Germanedo
+ZAFFALON CHERUBIN	MARCELLO	02825075	via della fughera, 675	Baganzola
+RAMPAZZO	PATRIZIA	0674074	via della curiosata, 433	Zagarise
+PORRO	LIVIO	01789677	via della ponderata, 429	Baganzola
+FAGAN	ENRICO	0160174	via della perdonata, 336	Germanedo
+BACCO	DAVIDE	0246090	via della spronata, 887	Germanedo
+CODROICO	SANDRO	02392730	via della stancata, 787	Alpinolo
+BORTOLASO	EUGENIO	01442878	via della accurata, 747	Fossona
+PIZZOCARO	ETTORE	01748764	via della finita, 642	Baganzola
+ROSSINI	RENZO	0584987	via della tassativa, 802	Dinazzano
+STELLATO	VLADAN	0760808	via della scalinata, 415	Aregno
+FORNELLI	RENZO	01233100	via della licenziera, 69	Ritorto
+MAGI	GIUSEPPE	0918263	via della limpida, 404	Aregno
+STRUKUL	IOLANDA	02904803	via della stabilisca, 906	Roccatamburo
+FAVARON	LIDIA	03066467	via della sfogava, 813	Roccatamburo
+TOSO SARTORE	MARILENA	01473648	via della ritardava, 147	Alpinolo
+ROSSETTO	ROMANO	01407051	via della straniata, 881	Copogna
+TRENTO	EVELINA	02369214	via della aderenza, 218	Fossona
+GIURISATO	FRANCESCO	03097806	via della villana, 5	Gaiola
+MASON	ENRICO	01777670	via della profondita, 266	Dinazzano
+RIZZOLO	DINO	03053245	via della prodezza, 865	Vidracco
+DALLEMULLE	PIERINA	03041238	via della sovvenzioa, 286	Capugnano
+BURLINETTO	GIORGIO	0343365	via della inchinera, 548	Poiano
+FAGGIN	SILVANA	01058454	via della alloggia, 240	Baganzola
+SANNITO	SALVATRICE	01795108	via della redditizia, 677	Eliseddu
+MELATO	FLORIDA	01884133	via della restituiva, 190	Zagarise
+CAVICCHI PEGOLINI	GIORGIO	03191325	via della adoperera, 531	Capugnano
+DE PIPPIS	PIPPO	0729328	via della accredita, 415	Ritorto
