@@ -1,0 +1,44 @@
+
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+/**
+ *
+ * @author Fabio
+ */
+public class MuoviOggetti {
+    static int y=100;
+    public static void main(String[] args) {
+        JFrame f=new JFrame("Muovi oggetti");
+        JTextField t=new JTextField();
+        JLabel l=new JLabel("Scrivi qualcosa :");
+        
+        //Size e Location Text Field
+        t.setSize(150, 20);
+        t.setLocation(200, y);
+        
+        //Size e Location Label
+        l.setSize(150, 20);
+        l.setLocation(50, y);
+         
+        f.add(t);
+        f.add(l);
+        
+        //istruzioni essenziali per movimento libero degli oggetti sul JFrame
+        //------------------------------------------------------------------
+            f.setSize(400, 300);
+            f.setResizable(false);
+            f.setLayout(null);
+            f.setLocationRelativeTo(null);
+        //------------------------------------------------------------------
+        f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        f.setVisible(true);
+    }
+}

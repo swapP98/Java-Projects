@@ -1,0 +1,59 @@
+Sub decimale_binario()
+c = 2
+c1 = 0
+For c = 2 To 8
+c1 = c1 + 1
+n = Cells(1, c - 1)
+Cells(1, c) = Int(n / 2)
+Cells(3, 9 - c1) = (n Mod 2)
+Next
+End Sub
+
+
+------------------------------------------------------------------------>>
+
+Sub conversione()
+
+ c = 2
+ For c = 1 To 8 Step -1
+  n = Cells(1, c - 1)
+  Cells(1, c) = Int(n / 2)
+  Cells(2, 1) = (n Mod 2)
+ Next c
+
+End Sub
+
+------------------------------------------------
+Sub conversioni()			 
+c = 2					 
+For c = 2 To 9			
+n = Cells(1, c - 1)			 
+Cells(1, c) = Int(n / 2)		 
+Cells(2, c - 1) = (n Mod 2)		 
+Next c					 
+End Sub					 
+					 
+-------------------------------------------------
+
+
+Sub conversioni()
+    c = 2
+        For c = 2 To 9
+            n = Cells(1, c - 1)
+            Cells(1, c) = Int(n / 2)
+            Cells(2, c - 1) = (n Mod 2)
+        Next c
+End Sub
+
+---------------
+Sub conversioni()			 
+c = 2
+c1=0					 
+For c = 2 To 9			
+n = Cells(1, c - 1)			 
+Cells(1, c) = Int(n / 2)		 
+Cells(2, 9-c1) = (n Mod 2)		 
+Next c					 
+End Sub					 
+	
+

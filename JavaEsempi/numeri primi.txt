@@ -1,0 +1,32 @@
+/**	Author: Swapnil Paul
+*	Date of creation: 28/10/2014
+*	Version: 1.0
+*/
+
+public class NumeriPrimi
+{
+	public static void main (String[] args)
+	{int i, n;
+	 int m = 1000;
+		boolean[]num = new boolean[max];
+		for (i=0; i<m; i++)
+		{
+			num[i] = true;
+		}
+		for (i=2; i<m/2; i++)
+		{
+			if (num[i]==true)
+			{
+			for (n = i*2; n<m; n+=i)
+				num[n] = false;
+			}
+		}
+		for ( i=2; i<m; i++)
+		{
+			if (num[i]==true)
+			{
+				System.out.println(i);
+			}
+		}
+	}
+}

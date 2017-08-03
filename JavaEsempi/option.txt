@@ -1,0 +1,10 @@
+  String s = (String)JOptionPane.showInputDialog(
+                                        this,
+                                        "Complete the sentence:\n"
+                                        + "\"Green eggs and...\"",
+                                        "Customized Dialog",
+                                        JOptionPane.WARNING_MESSAGE,
+                                        null,
+                                        null,
+                                        "ham");
+         System.out.println(s);
